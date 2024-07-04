@@ -1,6 +1,6 @@
 streamlit
 pandas 
-scikitlearn
+scikit-learn
 LogisticRegression
 train_test_split
 accuracy_score 
