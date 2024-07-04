@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\Neelam\Downloads\CLEAN- PCOS SURVEY SPREADSHEET.csv")  # Update the file path as necessary
+df = pd.read_csv("CLEAN- PCOS SURVEY SPREADSHEET.csv")  # Update the file path as necessary
 
 # Define the target column
 target_column = 'Have you been diagnosed with PCOS/PCOD?'
